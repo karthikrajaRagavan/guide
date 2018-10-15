@@ -31,7 +31,6 @@ class HTML extends React.Component {
     );
   }
 }
-
 HTML.propTypes = propTypes;
 
 export default HTML;
